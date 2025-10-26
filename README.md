@@ -21,13 +21,10 @@ Welcome to my personal portfolio website! This project showcases my skills in fr
 - JavaScript (ES6+)
 - Git & GitHub
 
-## 📸 Preview
-
-![Screenshot](link-to-screenshot-if-any)
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yash-chandravanshi/) or [email](mailto:your-email@example.com).
+Feel free to reach out via [LinkedIn](https://linkedin.com/in/yash-chandravanshi7) or [email](yash0111chandravanshi@gmail.com).
 
 ---
 
